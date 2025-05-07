@@ -1,6 +1,6 @@
-**Expression de besoin – Intégration de données festivals**
+# Expression de besoin – Intégration de données festivals
 
-Dans le cadre du développement d’une application web de gestion collaborative des agendas de festivals, nous vous sollicitons pour assurer la préparation des données nécessaires à la mise en place d’un moteur de recherche exhaustif des festivals en France.
+Dans le cadre du développement d’une application web de gestion collaborative des agendas de festivals, nous vous sollicitons pour assurer la préparation des données nécessaires à la mise en place d’un moteur de recherche exhaustif des festivals en France.  
 
 Un jeu de données initial au format JSON vous est fourni. Il contient des informations hétérogènes sur plusieurs centaines de festivals (nom, localisation, thématique, période, contacts, etc.).
 
